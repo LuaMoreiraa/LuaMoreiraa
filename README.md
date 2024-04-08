@@ -1,4 +1,4 @@
-<h1> Iaeee, me chamo Lua Moreira 🌙</h1>
+<h1> Olá, me chamo Luana Moreira 🌙</h1>
 
 ![Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=luamoreiraa&show_icons=true&theme=dracula&count_private=true)
 
